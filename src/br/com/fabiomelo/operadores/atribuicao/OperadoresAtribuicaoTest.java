@@ -30,6 +30,11 @@ public class OperadoresAtribuicaoTest {
 //		numeroD = numeroD / 500;
 		numeroD /= 500;
 		System.out.println("O valor do numeroD é " + numeroD);
-	}
+	
+		int numeroE = 105025;
+//		numeroE = numeroE % 500;
+		numeroE %= 500;
+		System.out.println("O valor do numeroE é " + numeroE);
 
+	}
 }
