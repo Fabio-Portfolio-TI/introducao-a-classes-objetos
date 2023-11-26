@@ -1,4 +1,4 @@
-package br.com.fabiomelo.operadoresaritmeticos;
+package br.com.fabiomelo.operadores.aritmeticos;
 
 public class OperadoresAritmeticosTest {
 
